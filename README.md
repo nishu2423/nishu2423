@@ -16,6 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nishu-kumar-32ab20190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishu-kumar-32ab20190/" height="30" width="40" /></a>
+  <a href="https://www.naukri.com/code360/profile/nk2423" target="blank"><img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="nk2423" height="30" width="40" /></a>
+   <a href="https://www.geeksforgeeks.org/user/nishukum67a9/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="nishukum67a9" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/cse22215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@cse22215" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/NishuKumar52/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="NishuKumar52" height="30" width="40" /></a>
 </p>
