@@ -24,10 +24,10 @@
 - 📈 Worked on Power BI report optimization, reducing report execution time from **45+ seconds to approximately 12 seconds**.
 - 🌱 Currently strengthening my skills in **Apache Spark, advanced SQL, data engineering, and AI agents**.
 
-## Tech stack
+## Tech stack & skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,python,java,cpp,sql,git,github" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=azure,python,java,cpp,html,css,js,git,github" alt="Technology icons" />
 </p>
 
 <p align="center">
@@ -35,13 +35,18 @@
   <img src="https://img.shields.io/badge/Azure%20Data%20Factory-ETL%2FELT-0078D4?style=flat-square" alt="Azure Data Factory" />
   <img src="https://img.shields.io/badge/Apache%20Spark-PySpark-E25A1C?style=flat-square" alt="Apache Spark" />
   <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat-square" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL%20Server-Microsoft-CC2927?style=flat-square" alt="Microsoft SQL Server" />
 </p>
 
-**Data engineering:** ETL/ELT, data pipelines, Medallion Architecture (Bronze/Silver/Gold), Delta Lake, Parquet, data quality, SQL optimization
+**Programming languages:** Python, SQL, Java, C++, JavaScript
 
-**Languages & analytics:** Python, SQL, PySpark, Power BI, DAX
+**Web technologies:** HTML5, CSS3
+
+**Data engineering & analytics:** ETL/ELT, data pipelines, Medallion Architecture (Bronze/Silver/Gold), Delta Lake, Parquet, data quality, SQL optimization, Power BI, DAX
 
 **Cloud & tools:** Microsoft Azure, Microsoft Fabric, Azure Data Factory, ADLS Gen2, Azure Synapse Analytics, Git, GitHub
+
+**Foundational skills:** Data Structures and Algorithms (DSA), cloud computing, frontend and backend development fundamentals
 
 ## Featured project
 
