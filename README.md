@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Nishu%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20data%20pipelines%20%7C%20Exploring%20AI%20%7C%20Always%20learning&descAlignY=60&descSize=15" alt="Animated profile header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Nishu%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20%7C%20Data%20%7C%20AI%20%7C%20Continuous%20Learning&descAlignY=60&descSize=15" alt="Animated profile header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Azure+%7C+Microsoft+Fabric;PySpark+%7C+SQL+%7C+ETL%2FELT+Pipelines;Turning+raw+data+into+insights;Exploring+AI+Agents+%26+Automation" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Problem+Solver;Python+%7C+Java+%7C+SQL+%7C+JavaScript;Data+Engineering+%7C+Cloud+%7C+Analytics;Exploring+AI%2FML%2C+AI+Agents+%26+Automation;Building+Projects+%26+Learning+Every+Day" alt="Typing animation" />
 </a>
 
 <p>
@@ -21,20 +21,21 @@
 ## 👨‍💻 About me
 
 - 🎓 B.Tech in Computer Science and Engineering.
-- 💼 Previously worked at **MAQ Software**, contributing to data engineering and analytics workflows.
-- ⚙️ Hands-on experience with **Microsoft Fabric, Azure Data Factory, ADLS Gen2, PySpark, SQL, and Power BI**.
-- 🚀 Interested in building reliable ETL/ELT pipelines, lakehouse solutions, data quality frameworks, and AI-powered tools.
-- 📈 Worked on Power BI report optimization, reducing report execution time from **45+ seconds to approximately 12 seconds**.
-- 🌱 Currently strengthening my skills in **Apache Spark, advanced SQL, data engineering, and AI agents**.
+- 💼 Previously worked at **MAQ Software**, contributing to data engineering, analytics, and AI-related workflows.
+- 💡 Interested in solving problems through **software development, data, cloud technologies, and AI**.
+- 🛠️ Work with technologies including **Python, Java, C++, JavaScript, SQL, Microsoft Azure, and Microsoft Fabric**.
+- 📊 Experience with ETL/ELT pipelines, data transformation, SQL optimization, and Power BI reporting.
+- 🚀 Enjoy exploring new tools, building practical projects, and turning ideas into working solutions.
+- 🌱 Currently expanding my knowledge across **AI/ML, AI agents, cloud, data engineering, and software development**.
 
 ## ⚡ Tech stack & skills
 
 <div align="center">
 
-### Languages & Development
+### Programming & Web Development
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" alt="Python, Java, C++, JavaScript, HTML and CSS" />
 
-### Data, Cloud & Tools
+### Cloud, Data & Developer Tools
 <img src="https://skillicons.dev/icons?i=azure,git,github,mysql" alt="Azure, Git, GitHub and MySQL" />
 
 <p>
@@ -52,9 +53,10 @@
 
 - **Programming languages:** Python, SQL, Java, C++, JavaScript
 - **Web technologies:** HTML5, CSS3
+- **Software fundamentals:** Data Structures and Algorithms (DSA), problem solving, object-oriented programming concepts, frontend and backend development fundamentals
 - **Data engineering & analytics:** ETL/ELT, data pipelines, Medallion Architecture (Bronze/Silver/Gold), Delta Lake, Parquet, data quality, SQL optimization, Power BI, DAX
 - **Cloud & tools:** Microsoft Azure, Microsoft Fabric, Azure Data Factory, ADLS Gen2, Azure Synapse Analytics, Git, GitHub
-- **Foundational skills:** Data Structures and Algorithms (DSA), cloud computing, frontend and backend development fundamentals
+- **Exploring:** AI/ML concepts, AI agents, automation, and modern cloud technologies
 
 </details>
 
@@ -95,13 +97,13 @@ An end-to-end data engineering project built around the Medallion Architecture.
 
 </div>
 
-## 🎯 Currently focusing on
+## 🎯 Areas I'm exploring
 
-- Designing reliable and maintainable data pipelines.
-- Improving Spark and SQL performance.
-- Building incremental and metadata-driven ingestion patterns.
-- Applying data quality and monitoring practices.
-- Exploring AI agents for practical engineering workflows.
+- Building software projects and strengthening problem-solving skills.
+- Developing data pipelines and working with cloud platforms.
+- Exploring AI/ML, AI agents, and practical automation.
+- Improving programming, SQL, and system design fundamentals.
+- Learning new technologies and applying them through hands-on projects.
 
 ## 🤝 Connect with me
 
@@ -122,6 +124,6 @@ An end-to-end data engineering project built around the Medallion Architecture.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer" alt="Animated footer" />
 
-**"Always learning, building, and improving — one dataset at a time."** ⚡
+**"Curious by nature. Building with code. Growing with every project."** ⚡
 
 </div>
