@@ -1,21 +1,24 @@
-<!-- Profile README for github.com/nishu2423 -->
+<!-- Animated GitHub profile README | github.com/nishu2423 -->
 
-<h1 align="center">Hi, I'm Nishu Kumar 👋</h1>
-<h3 align="center">Data Engineer | Azure • Microsoft Fabric • PySpark • SQL</h3>
+<div align="center">
 
-<p align="center">
-  I build and optimize data pipelines, transform raw data into analytics-ready datasets, and explore practical applications of AI and automation.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Nishu%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20data%20pipelines%20%7C%20Exploring%20AI%20%7C%20Always%20learning&descAlignY=60&descSize=15" alt="Animated profile header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Azure+%7C+Microsoft+Fabric;PySpark+%7C+SQL+%7C+ETL%2FELT+Pipelines;Turning+raw+data+into+insights;Exploring+AI+Agents+%26+Automation" alt="Typing animation" />
+</a>
+
+<p>
+  <a href="https://github.com/nishu2423"><img src="https://komarev.com/ghpvc/?username=nishu2423&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" /></a>
+  <a href="https://github.com/nishu2423?tab=followers"><img src="https://img.shields.io/github/followers/nishu2423?label=FOLLOWERS&style=for-the-badge&color=blue" alt="GitHub followers" /></a>
+  <a href="https://github.com/nishu2423?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nishu-kumar-32ab20190/">LinkedIn</a> •
-  <a href="mailto:nishukumar4011@gmail.com">Email</a> •
-  <a href="https://github.com/nishu2423">GitHub</a>
-</p>
+</div>
 
 ---
 
-## About me
+## 👨‍💻 About me
 
 - 🎓 B.Tech in Computer Science and Engineering.
 - 💼 Previously worked at **MAQ Software**, contributing to data engineering and analytics workflows.
@@ -24,31 +27,42 @@
 - 📈 Worked on Power BI report optimization, reducing report execution time from **45+ seconds to approximately 12 seconds**.
 - 🌱 Currently strengthening my skills in **Apache Spark, advanced SQL, data engineering, and AI agents**.
 
-## Tech stack & skills
+## ⚡ Tech stack & skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,python,java,cpp,html,css,js,git,github" alt="Technology icons" />
+<div align="center">
+
+### Languages & Development
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" alt="Python, Java, C++, JavaScript, HTML and CSS" />
+
+### Data, Cloud & Tools
+<img src="https://skillicons.dev/icons?i=azure,git,github,mysql" alt="Azure, Git, GitHub and MySQL" />
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Engineering-742774?style=for-the-badge&logo=microsoft" alt="Microsoft Fabric" />
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-ETL%2FELT-0078D4?style=for-the-badge&logo=microsoftazure" alt="Azure Data Factory" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL%20Server-Microsoft-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Engineering-742774?style=flat-square" alt="Microsoft Fabric" />
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-ETL%2FELT-0078D4?style=flat-square" alt="Azure Data Factory" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-PySpark-E25A1C?style=flat-square" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat-square" alt="Power BI" />
-  <img src="https://img.shields.io/badge/SQL%20Server-Microsoft-CC2927?style=flat-square" alt="Microsoft SQL Server" />
-</p>
+</div>
 
-**Programming languages:** Python, SQL, Java, C++, JavaScript
+<details>
+<summary><b>🔍 Explore my complete skill set</b></summary>
 
-**Web technologies:** HTML5, CSS3
+- **Programming languages:** Python, SQL, Java, C++, JavaScript
+- **Web technologies:** HTML5, CSS3
+- **Data engineering & analytics:** ETL/ELT, data pipelines, Medallion Architecture (Bronze/Silver/Gold), Delta Lake, Parquet, data quality, SQL optimization, Power BI, DAX
+- **Cloud & tools:** Microsoft Azure, Microsoft Fabric, Azure Data Factory, ADLS Gen2, Azure Synapse Analytics, Git, GitHub
+- **Foundational skills:** Data Structures and Algorithms (DSA), cloud computing, frontend and backend development fundamentals
 
-**Data engineering & analytics:** ETL/ELT, data pipelines, Medallion Architecture (Bronze/Silver/Gold), Delta Lake, Parquet, data quality, SQL optimization, Power BI, DAX
+</details>
 
-**Cloud & tools:** Microsoft Azure, Microsoft Fabric, Azure Data Factory, ADLS Gen2, Azure Synapse Analytics, Git, GitHub
+## 🚀 Featured project
 
-**Foundational skills:** Data Structures and Algorithms (DSA), cloud computing, frontend and backend development fundamentals
-
-## Featured project
+<a href="https://github.com/nishu2423/AdventureWorkLoad_Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishu2423&repo=AdventureWorkLoad_Project&theme=tokyonight&hide_border=true" alt="AdventureWorks project card" />
+</a>
 
 ### [AdventureWorks — Azure Data Engineering](https://github.com/nishu2423/AdventureWorkLoad_Project)
 
@@ -60,7 +74,28 @@ An end-to-end data engineering project built around the Medallion Architecture.
 - Uses Azure Synapse Serverless SQL for analytics.
 - Includes metadata-driven ingestion and reusable data-quality checks.
 
-## What I'm focusing on
+## 📊 GitHub activity
+
+<div align="center">
+
+<a href="https://github.com/nishu2423">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nishu2423&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+</a>
+<a href="https://github.com/nishu2423">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishu2423&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</a>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=nishu2423&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</a>
+
+<a href="https://github.com/nishu2423">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishu2423&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+</a>
+
+</div>
+
+## 🎯 Currently focusing on
 
 - Designing reliable and maintainable data pipelines.
 - Improving Spark and SQL performance.
@@ -68,19 +103,25 @@ An end-to-end data engineering project built around the Medallion Architecture.
 - Applying data quality and monitoring practices.
 - Exploring AI agents for practical engineering workflows.
 
-## Connect with me
+## 🤝 Connect with me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nishu-kumar-32ab20190/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nishukumar4011@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nishu-kumar-32ab20190/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:nishukumar4011@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://leetcode.com/u/NishuKumar52/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.hackerrank.com/profile/cse22215"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+<a href="https://www.geeksforgeeks.org/user/nishukum67a9/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+<a href="https://www.naukri.com/code360/profile/nk2423"><img src="https://img.shields.io/badge/Coding%20Ninjas-Profile-DD6620?style=for-the-badge" alt="Coding Ninjas" /></a>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Always learning, building, and improving — one dataset at a time.</i>
-</p>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer" alt="Animated footer" />
+
+**"Always learning, building, and improving — one dataset at a time."** ⚡
+
+</div>
